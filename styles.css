@@ -1,0 +1,17 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: red;
+  color: white;
+}
+
+img {
+  width: 75%;
+}
+
+.underlined {
+  text-decoration: underline;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
